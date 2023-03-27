@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Ponniyin Selvan",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ponniyin_selvan_volume_1.jpg",
+        "author": "Kalki Krishnamurthy",
+        "language": "Tamil",
+        "genre": "Historical, romance, espionage, thriller, fiction",
+        "release": "1955"
+    },
+    {
+        "id": "2",
+        "name": "Tirukkuṟaḷ",
+        "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AF%86%E0%AE%B3%E0%AE%BF%E0%AE%B5%E0%AF%81.pdf/page1-1200px-%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B1%E0%AE%B3%E0%AF%8D_%E0%AE%A4%E0%AF%86%E0%AE%B3%E0%AE%BF%E0%AE%B5%E0%AF%81.pdf.jpg",
+        "author": "Thiruvalluvar",
+        "language": "Tamil",
+        "genre": "Poetry",
+        "release": "1812"
+    },
+    {
+        "id": "3",
+        "name": "A Song of Ice and Fire",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg/220px-A_Song_of_Ice_and_Fire_book_collection_box_set_cover.jpg",
+        "author": "George R. R. Martin",
+        "language": "English",
+        "genre": "Epic, Fantasy",
+        "release": "1996"
+    },
+    {
+        "id": "4",
+        "name": "A Game of Thrones",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/AGameOfThrones.jpg/220px-AGameOfThrones.jpg",
+        "author": "George R. R. Martin",
+        "language": "English",
+        "genre": "Political novel, Epic fantasy",
+        "release": "1996"
+    },
+    {
+        "id": "5",
+        "name": "Harry Potter and the Order of the Phoenix",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg/220px-Harry_Potter_and_the_Order_of_the_Phoenix.jpg",
+        "author": "J. K. Rowling",
+        "language": "English",
+        "genre": "Fantasy",
+        "release": "2003"
+    },
+    {
+        "id": "6",
+        "name": "Murder on the Orient Express",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Murder_on_the_Orient_Express_First_Edition_Cover_1934.jpg/220px-Murder_on_the_Orient_Express_First_Edition_Cover_1934.jpg",
+        "author": "Agatha Christie",
+        "language": "English",
+        "genre": "Crime Novel",
+        "release": "1934"
+    }
+]
